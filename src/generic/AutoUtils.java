@@ -9,9 +9,10 @@ import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-
+//Comment  line 
 public class AutoUtils 
 {
+	
 	//Method to take screenshot
 	public static String getPhoto(WebDriver driver, String folder, String fileName)
 	{
